@@ -1,0 +1,681 @@
+{
+    "population": [
+        "smaller",
+        "small",
+        "less",
+        "smallest",
+        "lowest",
+        "low",
+        "fewest",
+        "few"
+    ],
+    "city population": [
+        "smaller",
+        "small",
+        "less",
+        "smallest"
+    ],
+    "latitude": [
+        "lower",
+        "smaller",
+        "small",
+        "lowest",
+        "low"
+    ],
+    "station latitude": [
+        "lower",
+        "smaller",
+        "small",
+        "lowest",
+        "low"
+    ],
+    "duration": [
+        "below",
+        "less",
+        "shortest",
+        "short"
+    ],
+    "trip duration": [
+        "below",
+        "less",
+        "shortest",
+        "short"
+    ],
+    "length": [
+        "smaller",
+        "small",
+        "below"
+    ],
+    "catalog contents length": [
+        "smaller",
+        "small",
+        "below"
+    ],
+    "catalog content length": [
+        "smaller",
+        "small",
+        "below"
+    ],
+    "age": [
+        "under",
+        "below",
+        "younger",
+        "young",
+        "youngest"
+    ],
+    "member age": [
+        "under"
+    ],
+    "founded": [
+        "before",
+        "oldest",
+        "old",
+        "earliest",
+        "early"
+    ],
+    "found": [
+        "before",
+        "oldest",
+        "old",
+        "earliest",
+        "early"
+    ],
+    "university founded": [
+        "before",
+        "oldest",
+        "old",
+        "earliest",
+        "early"
+    ],
+    "university found": [
+        "before",
+        "oldest",
+        "old",
+        "earliest",
+        "early"
+    ],
+    "capacity": [
+        "less",
+        "lower",
+        "smallest",
+        "small"
+    ],
+    "classroom capacity": [
+        "less",
+        "lower"
+    ],
+    "open date": [
+        "before"
+    ],
+    "church open date": [
+        "before"
+    ],
+    "ticket price": [
+        "lower",
+        "under"
+    ],
+    "exhibition ticket price": [
+        "lower",
+        "under"
+    ],
+    "year": [
+        "before",
+        "earlier",
+        "early"
+    ],
+    "exhibition year": [
+        "before"
+    ],
+    "days held": [
+        "less",
+        "fewer",
+        "few",
+        "fewest",
+        "lowest",
+        "low"
+    ],
+    "day held": [
+        "less",
+        "fewer",
+        "few",
+        "fewest",
+        "lowest",
+        "low"
+    ],
+    "wrestler days held": [
+        "less",
+        "fewer",
+        "few",
+        "fewest",
+        "lowest",
+        "low"
+    ],
+    "wrestler day held": [
+        "less",
+        "fewer",
+        "few",
+        "fewest",
+        "lowest",
+        "low"
+    ],
+    "budget year": [
+        "before"
+    ],
+    "budgeted": [
+        "smaller",
+        "small"
+    ],
+    "budget": [
+        "smaller",
+        "small",
+        "lowest",
+        "low"
+    ],
+    "took office": [
+        "before"
+    ],
+    "take office": [
+        "before"
+    ],
+    "party took office": [
+        "before"
+    ],
+    "party take office": [
+        "before"
+    ],
+    "salary": [
+        "lower",
+        "below",
+        "less",
+        "lowest",
+        "low"
+    ],
+    "employee salary": [
+        "lower",
+        "below",
+        "less",
+        "lowest",
+        "low"
+    ],
+    "time": [
+        "before"
+    ],
+    "races time": [
+        "before"
+    ],
+    "race time": [
+        "before"
+    ],
+    "campuses year": [
+        "before"
+    ],
+    "campus year": [
+        "before"
+    ],
+    "rating": [
+        "below",
+        "less"
+    ],
+    "rate": [
+        "below",
+        "less"
+    ],
+    "business rating": [
+        "below"
+    ],
+    "business rate": [
+        "below"
+    ],
+    "review rating": [
+        "less"
+    ],
+    "review rate": [
+        "less"
+    ],
+    "height": [
+        "lower",
+        "less",
+        "shorter",
+        "short",
+        "below",
+        "shortest"
+    ],
+    "people height": [
+        "lower",
+        "less",
+        "shortest",
+        "short"
+    ],
+    "movie year": [
+        "before",
+        "earlier",
+        "early"
+    ],
+    "base price": [
+        "below",
+        "lower",
+        "cheapest",
+        "cheap",
+        "lowest",
+        "low"
+    ],
+    "rooms base price": [
+        "below",
+        "lower",
+        "cheapest",
+        "cheap",
+        "lowest",
+        "low"
+    ],
+    "room base price": [
+        "below",
+        "lower",
+        "cheapest",
+        "cheap",
+        "lowest",
+        "low"
+    ],
+    "credit score": [
+        "lower",
+        "below",
+        "lowest",
+        "low"
+    ],
+    "customer credit score": [
+        "lower",
+        "below",
+        "lowest",
+        "low"
+    ],
+    "total": [
+        "less"
+    ],
+    "club rank total": [
+        "less"
+    ],
+    "points": [
+        "lower",
+        "less"
+    ],
+    "point": [
+        "lower",
+        "less"
+    ],
+    "player points": [
+        "lower",
+        "less"
+    ],
+    "player point": [
+        "lower",
+        "less"
+    ],
+    "employees salary": [
+        "below",
+        "less"
+    ],
+    "hire date": [
+        "before"
+    ],
+    "employees hire date": [
+        "before"
+    ],
+    "employee hire date": [
+        "before"
+    ],
+    "player height": [
+        "shorter",
+        "short",
+        "below"
+    ],
+    "number cities": [
+        "small",
+        "smaller"
+    ],
+    "number city": [
+        "small",
+        "smaller"
+    ],
+    "market number cities": [
+        "small",
+        "smaller"
+    ],
+    "market number city": [
+        "small",
+        "smaller"
+    ],
+    "date from": [
+        "before",
+        "first"
+    ],
+    "project staff date from": [
+        "before",
+        "first"
+    ],
+    "person age": [
+        "below",
+        "under"
+    ],
+    "product price": [
+        "lower",
+        "smaller",
+        "small",
+        "below",
+        "less",
+        "cheapest",
+        "cheap",
+        "lowest",
+        "low"
+    ],
+    "pilot age": [
+        "younger",
+        "young"
+    ],
+    "pages per minute color": [
+        "small",
+        "smaller"
+    ],
+    "page per minute color": [
+        "small",
+        "smaller"
+    ],
+    "product pages per minute color": [
+        "small",
+        "smaller"
+    ],
+    "product page per minute color": [
+        "small",
+        "smaller"
+    ],
+    "price": [
+        "less",
+        "lowest",
+        "low",
+        "cheapest",
+        "cheap"
+    ],
+    "products price": [
+        "less",
+        "cheapest",
+        "cheap"
+    ],
+    "opening year": [
+        "before"
+    ],
+    "stadium opening year": [
+        "before"
+    ],
+    "manager age": [
+        "below"
+    ],
+    "student age": [
+        "below",
+        "younger",
+        "young"
+    ],
+    "amount of transaction": [
+        "smaller",
+        "small"
+    ],
+    "captain age": [
+        "younger",
+        "young",
+        "youngest"
+    ],
+    "driver age": [
+        "younger",
+        "young"
+    ],
+    "wine year": [
+        "before"
+    ],
+    "cars data year": [
+        "before"
+    ],
+    "car data year": [
+        "before"
+    ],
+    "weight": [
+        "less",
+        "smallest",
+        "small"
+    ],
+    "cars data weight": [
+        "less",
+        "smallest",
+        "small"
+    ],
+    "car data weight": [
+        "less",
+        "smallest",
+        "small"
+    ],
+    "employee age": [
+        "under"
+    ],
+    "customer age": [
+        "below"
+    ],
+    "earnings": [
+        "less",
+        "below"
+    ],
+    "poker player earnings": [
+        "less",
+        "below"
+    ],
+    "life expectancy": [
+        "shorter",
+        "short",
+        "less",
+        "shortest",
+        "lowest",
+        "low"
+    ],
+    "country life expectancy": [
+        "shorter",
+        "short",
+        "less",
+        "shortest",
+        "lowest",
+        "low"
+    ],
+    "id": [
+        "oldest",
+        "old",
+        "smallest",
+        "small"
+    ],
+    "trip id": [
+        "oldest",
+        "old",
+        "smallest",
+        "small"
+    ],
+    "mean sea level pressure inches": [
+        "lowest",
+        "low"
+    ],
+    "mean sea level pressure inch": [
+        "lowest",
+        "low"
+    ],
+    "weather mean sea level pressure inches": [
+        "lowest",
+        "low"
+    ],
+    "weather mean sea level pressure inch": [
+        "lowest",
+        "low"
+    ],
+    "publication price": [
+        "lowest",
+        "low"
+    ],
+    "catalog contents capacity": [
+        "smallest",
+        "small"
+    ],
+    "catalog content capacity": [
+        "smallest",
+        "small"
+    ],
+    "distance": [
+        "lowest",
+        "low",
+        "shortest",
+        "short"
+    ],
+    "aircraft distance": [
+        "lowest",
+        "low",
+        "shortest",
+        "short"
+    ],
+    "flight distance": [
+        "lowest",
+        "low",
+        "shortest",
+        "short"
+    ],
+    "editor age": [
+        "youngest",
+        "young"
+    ],
+    "instructor salary": [
+        "lowest",
+        "low"
+    ],
+    "department budget": [
+        "lowest",
+        "low"
+    ],
+    "people age": [
+        "youngest",
+        "young"
+    ],
+    "enrollment": [
+        "smallest",
+        "small"
+    ],
+    "school enrollment": [
+        "smallest",
+        "small"
+    ],
+    "rank": [
+        "highest",
+        "high"
+    ],
+    "pilot rank": [
+        "highest",
+        "high"
+    ],
+    "oppose rate": [
+        "lowest",
+        "low"
+    ],
+    "candidate oppose rate": [
+        "lowest",
+        "low"
+    ],
+    "county population": [
+        "smallest",
+        "small"
+    ],
+    "payment date": [
+        "first",
+        "earliest",
+        "early"
+    ],
+    "employee date of birth": [
+        "old",
+        "oldest"
+    ],
+    "city area": [
+        "small",
+        "smallest"
+    ],
+    "district city area": [
+        "small",
+        "smallest"
+    ],
+    "price range": [
+        "lowest",
+        "low"
+    ],
+    "hotels price range": [
+        "lowest",
+        "low"
+    ],
+    "hotel price range": [
+        "lowest",
+        "low"
+    ],
+    "gdp": [
+        "lowest",
+        "low",
+        "smallest",
+        "small"
+    ],
+    "city gdp": [
+        "lowest",
+        "low",
+        "smallest",
+        "small"
+    ],
+    "elevation": [
+        "lowest",
+        "low"
+    ],
+    "airports elevation": [
+        "lowest",
+        "low"
+    ],
+    "airport elevation": [
+        "lowest",
+        "low"
+    ],
+    "singer age": [
+        "youngest",
+        "young"
+    ],
+    "pet age": [
+        "youngest",
+        "young"
+    ],
+    "teacher age": [
+        "youngest",
+        "young"
+    ],
+    "birth date": [
+        "oldest",
+        "old"
+    ],
+    "players birth date": [
+        "oldest",
+        "old"
+    ],
+    "player birth date": [
+        "oldest",
+        "old"
+    ],
+    "winner age": [
+        "youngest",
+        "young"
+    ],
+    "matches winner age": [
+        "youngest",
+        "young"
+    ],
+    "match winner age": [
+        "youngest",
+        "young"
+    ],
+    "country population": [
+        "smallest",
+        "small",
+        "lowest",
+        "low",
+        "fewest",
+        "few"
+    ]
+}
