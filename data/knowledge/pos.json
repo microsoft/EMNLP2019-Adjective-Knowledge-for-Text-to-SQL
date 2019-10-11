@@ -1,0 +1,1585 @@
+{
+    "age": [
+        "older",
+        "old",
+        "over",
+        "above",
+        "greater",
+        "great",
+        "oldest",
+        "greatest",
+        "top",
+        "highest",
+        "high",
+        "largest",
+        "large"
+    ],
+    "head age": [
+        "older",
+        "old"
+    ],
+    "population": [
+        "bigger",
+        "big",
+        "over",
+        "largest",
+        "large",
+        "greatest",
+        "great",
+        "biggest",
+        "top",
+        "populated",
+        "populate"
+    ],
+    "city population": [
+        "bigger",
+        "big",
+        "over",
+        "greater",
+        "great",
+        "larger",
+        "large",
+        "more",
+        "largest"
+    ],
+    "max temperature f": [
+        "high",
+        "higher"
+    ],
+    "weather max temperature f": [
+        "high",
+        "higher"
+    ],
+    "price": [
+        "higher",
+        "high",
+        "larger",
+        "large",
+        "bigger",
+        "big",
+        "highest",
+        "expensive"
+    ],
+    "publication price": [
+        "higher",
+        "high",
+        "highest"
+    ],
+    "followers": [
+        "more",
+        "largest",
+        "large"
+    ],
+    "follower": [
+        "more",
+        "largest",
+        "large"
+    ],
+    "user profiles followers": [
+        "more",
+        "largest",
+        "large"
+    ],
+    "user profile follower": [
+        "more",
+        "largest",
+        "large"
+    ],
+    "width": [
+        "greater",
+        "great",
+        "above"
+    ],
+    "catalog contents width": [
+        "greater",
+        "great",
+        "above"
+    ],
+    "catalog content width": [
+        "greater",
+        "great",
+        "above"
+    ],
+    "price in dollars": [
+        "expensive",
+        "great",
+        "greater",
+        "high",
+        "highest"
+    ],
+    "price in dollar": [
+        "expensive",
+        "great",
+        "greater",
+        "high",
+        "highest"
+    ],
+    "catalog contents price in dollars": [
+        "expensive",
+        "great",
+        "greater",
+        "high",
+        "highest"
+    ],
+    "catalog content price in dollar": [
+        "expensive",
+        "great",
+        "greater",
+        "high",
+        "highest"
+    ],
+    "distance": [
+        "more"
+    ],
+    "aircraft distance": [
+        "more"
+    ],
+    "flight distance": [
+        "more"
+    ],
+    "flight price": [
+        "higher",
+        "high"
+    ],
+    "student age": [
+        "older",
+        "old",
+        "over",
+        "above"
+    ],
+    "editor age": [
+        "older",
+        "old"
+    ],
+    "year opened": [
+        "after",
+        "recently",
+        "recent"
+    ],
+    "year open": [
+        "after",
+        "recently",
+        "recent"
+    ],
+    "track year opened": [
+        "after",
+        "recently",
+        "recent"
+    ],
+    "track year open": [
+        "after",
+        "recently",
+        "recent"
+    ],
+    "founded": [
+        "after",
+        "newest",
+        "new",
+        "recently"
+    ],
+    "found": [
+        "after",
+        "newest",
+        "new",
+        "recently"
+    ],
+    "university founded": [
+        "after",
+        "newest",
+        "new",
+        "recently"
+    ],
+    "university found": [
+        "after",
+        "newest",
+        "new",
+        "recently"
+    ],
+    "enrollment": [
+        "over",
+        "above",
+        "more",
+        "greater",
+        "great",
+        "bigger",
+        "big",
+        "largest",
+        "large",
+        "top"
+    ],
+    "university enrollment": [
+        "over",
+        "above",
+        "largest",
+        "large"
+    ],
+    "height": [
+        "bigger",
+        "big",
+        "larger",
+        "large",
+        "more",
+        "over",
+        "taller",
+        "tall",
+        "greater",
+        "great",
+        "longer",
+        "higher",
+        "high",
+        "highest",
+        "greatest",
+        "tallest",
+        "largest"
+    ],
+    "mountain height": [
+        "bigger",
+        "big",
+        "larger",
+        "large",
+        "more",
+        "over",
+        "highest",
+        "high",
+        "greatest",
+        "great"
+    ],
+    "prominence": [
+        "more",
+        "over",
+        "top",
+        "highest",
+        "high"
+    ],
+    "mountain prominence": [
+        "more",
+        "over",
+        "top",
+        "highest",
+        "high"
+    ],
+    "season": [
+        "after"
+    ],
+    "game season": [
+        "after"
+    ],
+    "capacity percentage": [
+        "higher",
+        "high"
+    ],
+    "stadium capacity percentage": [
+        "higher",
+        "high"
+    ],
+    "overall rating": [
+        "greater",
+        "great"
+    ],
+    "overall rate": [
+        "greater",
+        "great"
+    ],
+    "player attributes overall rating": [
+        "greater",
+        "great"
+    ],
+    "player attribute overall rate": [
+        "greater",
+        "great"
+    ],
+    "capacity": [
+        "more",
+        "greater",
+        "great",
+        "over",
+        "above",
+        "largest",
+        "large"
+    ],
+    "classroom capacity": [
+        "more",
+        "greater",
+        "great",
+        "over"
+    ],
+    "salary": [
+        "more",
+        "greater",
+        "great",
+        "higher",
+        "high",
+        "above",
+        "highest",
+        "top"
+    ],
+    "instructor salary": [
+        "more",
+        "greater",
+        "great",
+        "higher",
+        "high",
+        "highest"
+    ],
+    "people age": [
+        "older",
+        "old",
+        "top",
+        "oldest"
+    ],
+    "year join": [
+        "after",
+        "latest",
+        "late"
+    ],
+    "artist year join": [
+        "after",
+        "latest",
+        "late"
+    ],
+    "artist age": [
+        "above",
+        "older",
+        "old",
+        "oldest"
+    ],
+    "year": [
+        "after",
+        "more",
+        "recent"
+    ],
+    "exhibition year": [
+        "after"
+    ],
+    "budgeted": [
+        "above",
+        "before",
+        "greater",
+        "great"
+    ],
+    "budget": [
+        "above",
+        "greater",
+        "great",
+        "highest",
+        "high",
+        "greatest"
+    ],
+    "institution founded": [
+        "after"
+    ],
+    "institution found": [
+        "after"
+    ],
+    "institution enrollment": [
+        "after"
+    ],
+    "open year": [
+        "late",
+        "latest",
+        "recent"
+    ],
+    "cinema capacity": [
+        "above",
+        "more",
+        "over",
+        "largest",
+        "large"
+    ],
+    "amount paid": [
+        "higher",
+        "high"
+    ],
+    "payments amount paid": [
+        "higher",
+        "high"
+    ],
+    "payment amount paid": [
+        "higher",
+        "high"
+    ],
+    "memory in g": [
+        "bigger",
+        "big"
+    ],
+    "phone memory in g": [
+        "bigger",
+        "big"
+    ],
+    "took office": [
+        "after"
+    ],
+    "take office": [
+        "after"
+    ],
+    "party took office": [
+        "after"
+    ],
+    "party take office": [
+        "after"
+    ],
+    "pilot age": [
+        "older",
+        "old"
+    ],
+    "employee salary": [
+        "more",
+        "above",
+        "highest",
+        "high"
+    ],
+    "time": [
+        "after"
+    ],
+    "races time": [
+        "after"
+    ],
+    "race time": [
+        "after"
+    ],
+    "campuses year": [
+        "after"
+    ],
+    "campus year": [
+        "after"
+    ],
+    "rating": [
+        "more",
+        "highest",
+        "high",
+        "top"
+    ],
+    "rate": [
+        "more",
+        "highest",
+        "high",
+        "top"
+    ],
+    "business rating": [
+        "more"
+    ],
+    "business rate": [
+        "more"
+    ],
+    "people height": [
+        "taller",
+        "tall",
+        "greater",
+        "great",
+        "tallest",
+        "greatest"
+    ],
+    "weight": [
+        "higher",
+        "high",
+        "greater",
+        "great",
+        "above",
+        "heavier",
+        "heavy",
+        "more"
+    ],
+    "people weight": [
+        "higher",
+        "high"
+    ],
+    "movie year": [
+        "after"
+    ],
+    "black": [
+        "higher",
+        "high",
+        "greater",
+        "great"
+    ],
+    "city black": [
+        "higher",
+        "high",
+        "greater",
+        "great"
+    ],
+    "max occupancy": [
+        "high",
+        "higher"
+    ],
+    "rooms max occupancy": [
+        "high",
+        "higher"
+    ],
+    "room max occupancy": [
+        "high",
+        "higher"
+    ],
+    "base price": [
+        "higher",
+        "high",
+        "more",
+        "expensive",
+        "highest",
+        "top"
+    ],
+    "rooms base price": [
+        "higher",
+        "high",
+        "more",
+        "expensive",
+        "highest",
+        "top"
+    ],
+    "room base price": [
+        "higher",
+        "high",
+        "more",
+        "expensive",
+        "highest",
+        "top"
+    ],
+    "max speed": [
+        "higher",
+        "high",
+        "over"
+    ],
+    "storm max speed": [
+        "higher",
+        "high",
+        "over"
+    ],
+    "credit score": [
+        "above",
+        "highest",
+        "high"
+    ],
+    "customer credit score": [
+        "above",
+        "highest",
+        "high"
+    ],
+    "student gpa": [
+        "high",
+        "highest"
+    ],
+    "points": [
+        "bigger",
+        "big",
+        "larger",
+        "large"
+    ],
+    "point": [
+        "bigger",
+        "big",
+        "larger",
+        "large"
+    ],
+    "player points": [
+        "bigger",
+        "big",
+        "larger",
+        "large"
+    ],
+    "player point": [
+        "bigger",
+        "big",
+        "larger",
+        "large"
+    ],
+    "hire date": [
+        "after"
+    ],
+    "employees hire date": [
+        "after"
+    ],
+    "employee hire date": [
+        "after"
+    ],
+    "min salary": [
+        "greater",
+        "great",
+        "over"
+    ],
+    "jobs min salary": [
+        "greater",
+        "great",
+        "over"
+    ],
+    "job min salary": [
+        "greater",
+        "great",
+        "over"
+    ],
+    "employees salary": [
+        "above"
+    ],
+    "resolution": [
+        "above",
+        "higher",
+        "high"
+    ],
+    "song resolution": [
+        "above",
+        "higher",
+        "high"
+    ],
+    "player weight": [
+        "greater",
+        "great",
+        "above"
+    ],
+    "sales in billion": [
+        "large",
+        "largest"
+    ],
+    "sale in billion": [
+        "large",
+        "largest"
+    ],
+    "company sales in billion": [
+        "large",
+        "largest"
+    ],
+    "company sale in billion": [
+        "large",
+        "largest"
+    ],
+    "person age": [
+        "greater",
+        "great",
+        "older",
+        "old"
+    ],
+    "publication year": [
+        "after",
+        "more"
+    ],
+    "access count": [
+        "great",
+        "greatest"
+    ],
+    "documents access count": [
+        "great",
+        "greatest"
+    ],
+    "document access count": [
+        "great",
+        "greatest"
+    ],
+    "credits": [
+        "more",
+        "highest",
+        "high"
+    ],
+    "credit": [
+        "more",
+        "highest",
+        "high"
+    ],
+    "course credits": [
+        "more",
+        "highest",
+        "high"
+    ],
+    "course credit": [
+        "more",
+        "highest",
+        "high"
+    ],
+    "product price": [
+        "higher",
+        "high",
+        "larger",
+        "large",
+        "expensive",
+        "highest",
+        "greatest",
+        "great",
+        "pricy"
+    ],
+    "total amount purchased": [
+        "large",
+        "largest"
+    ],
+    "total amount purchase": [
+        "large",
+        "largest"
+    ],
+    "product suppliers total amount purchased": [
+        "large",
+        "largest"
+    ],
+    "product supplier total amount purchase": [
+        "large",
+        "largest"
+    ],
+    "district city population": [
+        "greater",
+        "great",
+        "larger",
+        "large",
+        "more",
+        "largest"
+    ],
+    "city area": [
+        "great",
+        "greater",
+        "large",
+        "larger",
+        "largest"
+    ],
+    "district city area": [
+        "great",
+        "greater",
+        "large",
+        "larger",
+        "largest"
+    ],
+    "college enrollment": [
+        "more",
+        "greater",
+        "great",
+        "bigger",
+        "big",
+        "top",
+        "largest",
+        "large"
+    ],
+    "birth year": [
+        "after",
+        "new"
+    ],
+    "actor birth year": [
+        "after",
+        "new"
+    ],
+    "products price": [
+        "larger",
+        "large"
+    ],
+    "manager age": [
+        "above",
+        "oldest",
+        "old"
+    ],
+    "student capacity": [
+        "great",
+        "greater",
+        "large",
+        "largest"
+    ],
+    "dorm student capacity": [
+        "great",
+        "greater",
+        "large",
+        "largest"
+    ],
+    "share count": [
+        "bigger",
+        "big"
+    ],
+    "transactions share count": [
+        "bigger",
+        "big"
+    ],
+    "transaction share count": [
+        "bigger",
+        "big"
+    ],
+    "amount of transaction": [
+        "bigger",
+        "big"
+    ],
+    "roller coaster height": [
+        "longer",
+        "higher",
+        "high"
+    ],
+    "length": [
+        "longer",
+        "higher",
+        "high",
+        "longest",
+        "long"
+    ],
+    "roller coaster length": [
+        "longer",
+        "higher",
+        "high",
+        "longest",
+        "long"
+    ],
+    "regional population": [
+        "large",
+        "largest"
+    ],
+    "city regional population": [
+        "large",
+        "largest"
+    ],
+    "driver age": [
+        "older",
+        "old"
+    ],
+    "velocity": [
+        "larger",
+        "large"
+    ],
+    "flight velocity": [
+        "larger",
+        "large"
+    ],
+    "score": [
+        "higher",
+        "high",
+        "above",
+        "highest"
+    ],
+    "wine score": [
+        "higher",
+        "high",
+        "above"
+    ],
+    "wine year": [
+        "after"
+    ],
+    "wine price": [
+        "bigger",
+        "big",
+        "higher",
+        "high"
+    ],
+    "total passengers": [
+        "more",
+        "top"
+    ],
+    "total passenger": [
+        "more",
+        "top"
+    ],
+    "station total passengers": [
+        "more",
+        "top"
+    ],
+    "station total passenger": [
+        "more",
+        "top"
+    ],
+    "book club year": [
+        "after",
+        "more"
+    ],
+    "singer age": [
+        "above"
+    ],
+    "pets weight": [
+        "heavier",
+        "heavy",
+        "greater",
+        "great"
+    ],
+    "pet weight": [
+        "heavier",
+        "heavy",
+        "greater",
+        "great"
+    ],
+    "pet age": [
+        "older",
+        "old"
+    ],
+    "horsepower": [
+        "more",
+        "greater",
+        "great"
+    ],
+    "cars data horsepower": [
+        "more",
+        "greater",
+        "great"
+    ],
+    "car data horsepower": [
+        "more",
+        "greater",
+        "great"
+    ],
+    "cylinders": [
+        "more",
+        "over"
+    ],
+    "cylinder": [
+        "more",
+        "over"
+    ],
+    "cars data cylinders": [
+        "more",
+        "over"
+    ],
+    "car data cylinder": [
+        "more",
+        "over"
+    ],
+    "cars data weight": [
+        "more"
+    ],
+    "car data weight": [
+        "less",
+        "more"
+    ],
+    "version number": [
+        "later",
+        "greater",
+        "great"
+    ],
+    "templates version number": [
+        "later",
+        "greater",
+        "great"
+    ],
+    "template version number": [
+        "later",
+        "greater",
+        "great"
+    ],
+    "life expectancy": [
+        "longer",
+        "greater",
+        "great"
+    ],
+    "country life expectancy": [
+        "longer",
+        "greater",
+        "great"
+    ],
+    "surface area": [
+        "bigger",
+        "big",
+        "greater",
+        "great",
+        "largest",
+        "large",
+        "top"
+    ],
+    "country surface area": [
+        "bigger",
+        "big",
+        "greater",
+        "great",
+        "largest",
+        "large",
+        "top"
+    ],
+    "cloud cover": [
+        "top",
+        "highest",
+        "high"
+    ],
+    "weather cloud cover": [
+        "top",
+        "highest",
+        "high"
+    ],
+    "duration": [
+        "top",
+        "longest",
+        "long"
+    ],
+    "trip duration": [
+        "top",
+        "longest",
+        "long"
+    ],
+    "actor age": [
+        "oldest",
+        "old",
+        "greatest",
+        "great"
+    ],
+    "catalog contents height": [
+        "highest",
+        "high"
+    ],
+    "catalog content height": [
+        "highest",
+        "high"
+    ],
+    "total": [
+        "top",
+        "highest",
+        "high"
+    ],
+    "invoices total": [
+        "top"
+    ],
+    "invoice total": [
+        "top"
+    ],
+    "birth date": [
+        "youngest",
+        "young"
+    ],
+    "employees birth date": [
+        "youngest",
+        "young"
+    ],
+    "employee birth date": [
+        "youngest",
+        "young"
+    ],
+    "acc percent": [
+        "highest",
+        "high"
+    ],
+    "basketball match acc percent": [
+        "highest",
+        "high"
+    ],
+    "body builder total": [
+        "highest",
+        "high"
+    ],
+    "bedroom count": [
+        "largest",
+        "large"
+    ],
+    "apartments bedroom count": [
+        "largest",
+        "large"
+    ],
+    "apartment bedroom count": [
+        "largest",
+        "large"
+    ],
+    "attendance": [
+        "highest",
+        "high"
+    ],
+    "performance attendance": [
+        "highest",
+        "high"
+    ],
+    "department budget": [
+        "highest",
+        "high",
+        "greatest",
+        "great"
+    ],
+    "total credits": [
+        "highest",
+        "high"
+    ],
+    "total credit": [
+        "highest",
+        "high"
+    ],
+    "student total credits": [
+        "highest",
+        "high"
+    ],
+    "student total credit": [
+        "highest",
+        "high"
+    ],
+    "open date": [
+        "recently"
+    ],
+    "church open date": [
+        "recently"
+    ],
+    "votes": [
+        "largest",
+        "large"
+    ],
+    "vote": [
+        "largest",
+        "large"
+    ],
+    "player votes": [
+        "largest",
+        "large"
+    ],
+    "player vote": [
+        "largest",
+        "large"
+    ],
+    "amount": [
+        "largest",
+        "large"
+    ],
+    "endowment amount": [
+        "largest",
+        "large"
+    ],
+    "height feet": [
+        "tallest",
+        "tall"
+    ],
+    "height foot": [
+        "tallest",
+        "tall"
+    ],
+    "building height feet": [
+        "tallest",
+        "tall"
+    ],
+    "building height foot": [
+        "tallest",
+        "tall"
+    ],
+    "phone price": [
+        "expensive"
+    ],
+    "market value": [
+        "highest",
+        "high"
+    ],
+    "company market value": [
+        "highest",
+        "high"
+    ],
+    "left office": [
+        "latest",
+        "late"
+    ],
+    "party left office": [
+        "latest",
+        "late"
+    ],
+    "date": [
+        "recently",
+        "recent"
+    ],
+    "races date": [
+        "recently",
+        "recent"
+    ],
+    "race date": [
+        "recently",
+        "recent"
+    ],
+    "technician age": [
+        "oldest",
+        "old"
+    ],
+    "killed": [
+        "largest",
+        "large"
+    ],
+    "kill": [
+        "largest",
+        "large"
+    ],
+    "perpetrator killed": [
+        "largest",
+        "large"
+    ],
+    "perpetrator kill": [
+        "largest",
+        "large"
+    ],
+    "degrees": [
+        "over"
+    ],
+    "degree": [
+        "over"
+    ],
+    "support rate": [
+        "great",
+        "greatest",
+        "high",
+        "highest"
+    ],
+    "candidate support rate": [
+        "great",
+        "greatest",
+        "high",
+        "highest"
+    ],
+    "oppose rate": [
+        "highest",
+        "high"
+    ],
+    "candidate oppose rate": [
+        "highest",
+        "high"
+    ],
+    "county public safety population": [
+        "largest",
+        "large",
+        "greatest",
+        "great"
+    ],
+    "host age": [
+        "oldest",
+        "old",
+        "highest",
+        "high"
+    ],
+    "county population": [
+        "biggest",
+        "big",
+        "largest",
+        "large"
+    ],
+    "years working": [
+        "largest",
+        "large"
+    ],
+    "year working": [
+        "largest",
+        "large"
+    ],
+    "journalist years working": [
+        "largest",
+        "large"
+    ],
+    "journalist year working": [
+        "largest",
+        "large"
+    ],
+    "restaurant rating": [
+        "highest",
+        "high"
+    ],
+    "restaurant rate": [
+        "highest",
+        "high"
+    ],
+    "rental rate": [
+        "highest",
+        "high"
+    ],
+    "film rental rate": [
+        "highest",
+        "high"
+    ],
+    "payment amount": [
+        "largest",
+        "large"
+    ],
+    "no of customers": [
+        "greatest",
+        "great"
+    ],
+    "no of customer": [
+        "greatest",
+        "great"
+    ],
+    "bank no of customers": [
+        "greatest",
+        "great"
+    ],
+    "bank no of customer": [
+        "greatest",
+        "great"
+    ],
+    "student date of birth": [
+        "youngest",
+        "young"
+    ],
+    "market rate": [
+        "high",
+        "highest"
+    ],
+    "furniture market rate": [
+        "high",
+        "highest"
+    ],
+    "releasedate": [
+        "recent",
+        "recently"
+    ],
+    "song releasedate": [
+        "recent",
+        "recently"
+    ],
+    "files duration": [
+        "longest",
+        "long",
+        "lasts",
+        "last"
+    ],
+    "file duration": [
+        "longest",
+        "long",
+        "lasts",
+        "last"
+    ],
+    "rating in percent": [
+        "highest",
+        "high"
+    ],
+    "rate in percent": [
+        "highest",
+        "high"
+    ],
+    "channel rating in percent": [
+        "highest",
+        "high"
+    ],
+    "channel rate in percent": [
+        "highest",
+        "high"
+    ],
+    "launch": [
+        "recently"
+    ],
+    "program launch": [
+        "recently"
+    ],
+    "start": [
+        "recent",
+        "recently"
+    ],
+    "appointment start": [
+        "recent",
+        "recently"
+    ],
+    "tonnage": [
+        "largest",
+        "large"
+    ],
+    "ship tonnage": [
+        "largest",
+        "large"
+    ],
+    "buildings height": [
+        "largest",
+        "large",
+        "highest",
+        "high"
+    ],
+    "building height": [
+        "largest",
+        "large",
+        "highest",
+        "high"
+    ],
+    "festival detail year": [
+        "recent"
+    ],
+    "international passengers": [
+        "largest",
+        "large"
+    ],
+    "international passenger": [
+        "largest",
+        "large"
+    ],
+    "airport international passengers": [
+        "largest",
+        "large"
+    ],
+    "airport international passenger": [
+        "largest",
+        "large"
+    ],
+    "player age": [
+        "highest",
+        "high",
+        "oldest",
+        "old",
+        "top",
+        "largest",
+        "large"
+    ],
+    "school enrollment": [
+        "largest",
+        "large"
+    ],
+    "shop open year": [
+        "latest",
+        "late",
+        "recent"
+    ],
+    "revenue": [
+        "highest",
+        "high"
+    ],
+    "manufacturers revenue": [
+        "highest",
+        "high"
+    ],
+    "manufacturer revenue": [
+        "highest",
+        "high"
+    ],
+    "event year": [
+        "recent"
+    ],
+    "scores": [
+        "highest",
+        "high"
+    ],
+    "submission scores": [
+        "highest",
+        "high"
+    ],
+    "submission score": [
+        "highest",
+        "high"
+    ],
+    "price range": [
+        "top",
+        "expensive"
+    ],
+    "hotels price range": [
+        "top",
+        "expensive"
+    ],
+    "hotel price range": [
+        "top",
+        "expensive"
+    ],
+    "speed": [
+        "highest",
+        "high"
+    ],
+    "roller coaster speed": [
+        "highest",
+        "high"
+    ],
+    "hosting city year": [
+        "recent"
+    ],
+    "host city year": [
+        "recent"
+    ],
+    "date formed": [
+        "youngest",
+        "young",
+        "recently"
+    ],
+    "date form": [
+        "youngest",
+        "young",
+        "recently"
+    ],
+    "organizations date formed": [
+        "youngest",
+        "young",
+        "recently"
+    ],
+    "organization date form": [
+        "youngest",
+        "young",
+        "recently"
+    ],
+    "hours": [
+        "longest",
+        "long"
+    ],
+    "hour": [
+        "longest",
+        "long"
+    ],
+    "projects hours": [
+        "longest",
+        "long"
+    ],
+    "project hour": [
+        "longest",
+        "long"
+    ],
+    "elevation": [
+        "highest",
+        "high"
+    ],
+    "airports elevation": [
+        "highest",
+        "high"
+    ],
+    "airport elevation": [
+        "highest",
+        "high"
+    ],
+    "gross worldwide": [
+        "highest",
+        "high"
+    ],
+    "movie gross worldwide": [
+        "highest",
+        "high"
+    ],
+    "average": [
+        "highest",
+        "high"
+    ],
+    "stadium average": [
+        "highest",
+        "high"
+    ],
+    "winner rank points": [
+        "highest",
+        "high"
+    ],
+    "winner rank point": [
+        "highest",
+        "high"
+    ],
+    "matches winner rank points": [
+        "highest",
+        "high"
+    ],
+    "match winner rank point": [
+        "highest",
+        "high"
+    ],
+    "minutes": [
+        "greatest",
+        "great",
+        "longest",
+        "long"
+    ],
+    "minute": [
+        "greatest",
+        "great",
+        "longest",
+        "long"
+    ],
+    "matches minutes": [
+        "greatest",
+        "great",
+        "longest",
+        "long"
+    ],
+    "match minute": [
+        "greatest",
+        "great",
+        "longest",
+        "long"
+    ],
+    "tv series rating": [
+        "top",
+        "highest",
+        "high"
+    ],
+    "tv series rate": [
+        "top",
+        "highest",
+        "high"
+    ],
+    "earnings": [
+        "highest",
+        "high",
+        "greatest",
+        "great"
+    ],
+    "poker player earnings": [
+        "highest",
+        "high",
+        "greatest",
+        "great"
+    ],
+    "country population": [
+        "top",
+        "largest",
+        "large",
+        "populated",
+        "populate"
+    ],
+    "year of work": [
+        "greatest",
+        "great"
+    ],
+    "conductor year of work": [
+        "greatest",
+        "great"
+    ]
+}
