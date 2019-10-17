@@ -4,7 +4,14 @@ import json
 import numpy as np
 import os
 import signal
-from preprocess_train_dev_data import get_table_dict
+
+
+def get_table_dict(table_data_path):
+    data = json.load(open(table_data_path))
+    table = dict()
+    for item in data:
+        table[item["db_id"]] = item
+    return table
 
 
 def load_train_dev_dataset(component,train_dev,history, root):

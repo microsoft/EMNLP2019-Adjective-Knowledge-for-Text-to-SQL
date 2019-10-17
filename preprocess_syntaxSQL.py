@@ -42,8 +42,8 @@ if not os.path.exists(train_tgt_path):
 
 train_data = json.load(open(train_data_path))
 history_option = "full"
-if len(sys.argv) > 2:
-    history_option = sys.argv[2]
+if len(sys.argv) > 3:
+    history_option = sys.argv[3]
 
 OLD_WHERE_OPS = ('not', 'between', '=', '>', '<', '>=', '<=', '!=', 'in', 'like', 'is', 'exists')
 NEW_WHERE_OPS = ('=','>','<','>=','<=','!=','like','not in','in','between','is')

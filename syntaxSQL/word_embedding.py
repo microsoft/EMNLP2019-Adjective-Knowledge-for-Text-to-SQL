@@ -85,7 +85,7 @@ class WordEmbedding(nn.Module):
         return [dirc_feats, pos_feats, neg_feats]
 
     def get_direction_feature(self, q_seq, perm, st, ed, gt_col, component=None, train=True):
-        if self.feats_format == 'mask':
+        if self.feats_format == 'direct':
             return self.get_direction_feature_mask(q_seq, perm, st, ed, gt_col, component, train)
 
         B = len(q_seq)
@@ -116,7 +116,7 @@ class WordEmbedding(nn.Module):
         return dirc_feats
 
     def get_direction_feature_pred(self, B, q_seq, idx, gt_col):
-        if self.feats_format == 'mask':
+        if self.feats_format == 'direct':
             return self.get_direction_feature_pred_mask(B, q_seq, idx, gt_col)
 
         dirc_feats = np.zeros([B, len(q_seq[0]) + 2, len(self.pos_feats)], dtype=np.float32)

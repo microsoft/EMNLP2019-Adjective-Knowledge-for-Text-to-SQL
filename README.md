@@ -11,7 +11,7 @@ Experimental results on both the original and the re-split Spider dataset show t
 #### Enviroment Setup
 
 1. The baseline codes use Python 2.7 and Pytorch 0.2.0 GPU. Install Python dependency: `pip install -r requirements.txt`
-Alternatively use docker: `docker push buaa1156/py27torch0.2cuda8vim:latest`
+Alternatively use docker: `docker pull buaa1156/py27torch0.2cuda8vim:latest`
 2. The preprocess scripts use Python >= 3.5.
 
 
@@ -44,6 +44,11 @@ Alternatively use docker: `docker push buaa1156/py27torch0.2cuda8vim:latest`
    - `data_type`: `singletable` or `resplitdata`
    - `feats_format`: `weighted` or `direct`
    - `DATE`: automatically set as local time while `training` and manually assigned while `testing`
+
+
+## Question
+
+If you have any question, please go ahead and [open an issue](https://github.com/microsoft/EMNLP2019-Adjective-Knowledge-for-Text-to-SQL/issues).
 
 
 ## Contributing
