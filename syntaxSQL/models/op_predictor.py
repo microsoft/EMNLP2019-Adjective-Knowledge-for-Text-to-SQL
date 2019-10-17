@@ -122,7 +122,7 @@ class OpPredictor(nn.Module):
         # Compute prediction scores
         # op_score: (B, 10)
 
-        if self.feats_format == 'mask':
+        if self.feats_format == 'direct':
             # [B, max_len] (-1/0/1)
             masks = (att_prob_qc * dirc_feats[0]).sum(1)
 

@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT License.
+
 '''
 python3 preprocess_direction_features.py syntaxSQL|SQLNet singletable|resplitdata weighted|direct
 '''
@@ -33,6 +36,9 @@ if baseline == 'syntaxSQL':
     data_root = r'syntaxSQL/generated_data/{}'.format(data_type)
 elif baseline == 'SQLNet':
     data_root = r'SQLNet/data/{}/feats'.format(data_type)
+
+if not os.path.exists(data_root):
+    os.makedirs(data_root)
 
 shutil.copy(os.path.join(know_root, 'pos_feat.json'), os.path.join(data_root, 'pos_feat.json'))
 shutil.copy(os.path.join(know_root, 'neg_feat.json'), os.path.join(data_root, 'neg_feat.json'))

@@ -164,7 +164,7 @@ class GroupPredictor(nn.Module):
             idx = perm[b]
             gt_col = chosen_col_gt[b - st]
             dirc_feat = emb_layer.get_direction_feature(max_q_len, idx, gt_col, train)
-            if self.feats_format == 'mask':
+            if self.feats_format == 'direct':
                 # [max_len] (-1/0/1)
                 mask = (att_prob_qc[b - st, gt_col] * dirc_feat[0])
                 mask_i = mask.cpu().data.numpy()[0]

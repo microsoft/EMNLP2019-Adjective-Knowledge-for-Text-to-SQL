@@ -19,7 +19,6 @@ from models.multisql_predictor import MultiSqlPredictor
 from models.root_teminal_predictor import RootTeminalPredictor
 from models.andor_predictor import AndOrPredictor
 from models.op_predictor import OpPredictor
-from preprocess_train_dev_data import index_to_column_name
 
 
 SQL_OPS = ('none','intersect', 'union', 'except')
@@ -52,6 +51,12 @@ class Stack:
      def insert(self,i,x):
          return self.items.insert(i,x)
 
+
+def index_to_column_name(index, table):
+    column_name = table["column_names"][index][1]
+    table_index = table["column_names"][index][0]
+    table_name = table["table_names"][table_index]
+    return table_name, column_name, index
 
 def to_batch_tables(tables, B, table_type):
     # col_lens = []
