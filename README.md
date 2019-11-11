@@ -1,6 +1,6 @@
 # Adjective-Knowledge-for-Text-to-SQL
 
-This is the source code for our paper [Leveraging Adjective-Noun Phrasing Knowledge for Comparison Relation Prediction in Text-to-SQL]() (EMNLP 2019).
+This is the source code for our paper [Leveraging Adjective-Noun Phrasing Knowledge for Comparison Relation Prediction in Text-to-SQL](https://www.aclweb.org/anthology/D19-1356.pdf) (EMNLP 2019).
 
 In this paper, we propose to leverage adjective-noun phrasing knowledge mined from the web to predict the comparison relations in text-to-SQL.
 Experimental results on both the original and the re-split Spider dataset show that our approach achieves significant improvement over [syntaxSQL](https://github.com/taoyds/syntaxSQL) and [SQLNet](https://github.com/xiaojunxu/SQLNet) on comparison relation prediction.
@@ -49,6 +49,19 @@ Alternatively use docker: `docker pull buaa1156/py27torch0.2cuda8vim:latest`
 ## Question
 
 If you have any question, please go ahead and [open an issue](https://github.com/microsoft/EMNLP2019-Adjective-Knowledge-for-Text-to-SQL/issues).
+
+
+## Citation
+
+```
+@inproceedings{liu2019leveraging,
+  title={Leveraging Adjective-Noun Phrasing Knowledge for Comparison Relation Prediction in Text-to-SQL},
+  author={Liu, Haoyan and Fang, Lei and Liu, Qian and Chen, Bei and Jian-Guang, LOU and Li, Zhoujun},
+  booktitle={Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)},
+  pages={3506--3511},
+  year={2019}
+}
+```
 
 
 ## Contributing
